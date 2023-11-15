@@ -17,7 +17,7 @@ pipeline {
         }    
         stage('stage3') {
             steps {
-                echo "greetings stage 3"
+                echo "greetings stage 3!"
                 sh "ls -la"
                 echo "enddd"
             }

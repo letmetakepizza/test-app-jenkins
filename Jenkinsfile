@@ -21,7 +21,7 @@ pipeline {
             steps {
                 echo 'Deploying...'
                 echo "just echo"
-                echo "string 344433"
+                echo "string 555555"
             }
         }
     }
